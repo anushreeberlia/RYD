@@ -1,0 +1,95 @@
+
+
+/* Style the counter cards */
+.card {
+  box-shadow: 16px 16px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+  margin: 10px 0 10px 0;
+}
+
+
+#pricing
+{
+  padding: 20px 100px 0 100px;
+  margin-bottom: 50px;
+}
+
+#pricing1{
+  padding: 10px 100px 0 100px;
+
+  margin-bottom: 50px;
+}
+
+#pricing2{
+  padding: 10px 100px 0 100px;
+  margin-bottom: 50px;
+}
+
+.card-text{
+  float: left;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.card-text1
+{
+  float: right;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.card-img-top
+{
+  height: 100px;
+}
+
+.heading
+{
+  display: inline-block;
+  color: #2d4059;
+  font-family: 'Alata', sans-serif;
+
+}
+.button
+{
+  display: inline-block;
+  position: absolute;
+  right: 120px;
+}
+
+
+#text
+{
+  padding:65px;
+}
+
+.boxed
+{
+  border: 1px solid;
+  background-color: #a6e3e9;
+
+}
+.card-deck
+{
+  background-color: #71c9ce;
+  border-radius: 25px;
+
+}
+
+#Cards
+{
+  margin: 20px;
+  border-radius: 25px;
+}
+
+.body1
+{
+
+  background-color: #e3fdfd;
+}
+
+.card-title
+{
+  font-family: 'Raleway', sans-serif;
+}
